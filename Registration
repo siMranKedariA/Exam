@@ -1,0 +1,13 @@
+<form action="" method="POST"
+   <table>
+	<tr>
+	<td>Username</td>
+	<td><input type="text" name="username">
+	</tr>
+	<tr>
+	<td>Mobile Number></td>
+	<td><input type="password" name="pwd">
+	</tr>
+mit" name"submit" value="Registration">
+	</table>
+</form>
